@@ -1,5 +1,5 @@
 <h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif" max-width="500" max-height="320" />
 <a href="https://discord.gg/m4BvmkG" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/721339695199682611/widget.png"></a>
 
 
